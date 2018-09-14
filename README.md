@@ -1,7 +1,7 @@
 # GroceriesRepository
 Main Comp Science project
 
----
+
 
 ### Assumptions: ###
 - objects are in pristine condition
@@ -11,7 +11,9 @@ Main Comp Science project
 
 ### To Do List ###
 []
+
 []
+
 []
 
 Weight: specific robots unload onto shelves according to what food group
