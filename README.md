@@ -10,16 +10,19 @@ Main Comp Science project
 ---
 
 ### To Do List ###
-[]
+- [] Give each robot a scale
 
-[]
+- [] Categorize robots by food
 
-[]
+- [] Put scales underneath food
 
-Weight: specific robots unload onto shelves according to what food group
-they are responsible for
-ie: vegetable robot is responsible for putting veggies on shelves
+- [] Networks tracks scales and updates every 3 hours
 
-Robots carry foods by having heaviest foods at the bottom
+- [] Robots get updated on what's missing and restack
+
+- [] Program each robot to be responsible for a food group
+
+
+
 
 ---
